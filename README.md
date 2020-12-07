@@ -2,6 +2,7 @@ monq
 ====
 
 Monq is a MongoDB-backed job queue for Node.js.
+Forked by Organimi to update packages.
 
 [![NPM](https://img.shields.io/npm/v/monq.svg?style=flat)](http://npm.im/monq)
 [![Build Status](https://img.shields.io/travis/scttnlsn/monq.svg?style=flat)](https://travis-ci.org/scttnlsn/monq)
